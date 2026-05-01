@@ -1,26 +1,26 @@
 [
   {
-    "ID": 1,
-    "TITULO": "Bienvenido a la app",
-    "DESCRIPCION": "Este es el primer post de bienvenida para los usuarios.",
-    "IMG": "https://example.com/img/post1.jpg"
+    "id": 1,
+    "titulo": "Bienvenido a la app",
+    "descripcion": "Este es el primer post de bienvenida para los usuarios.!!",
+    "img": "https://picsum.photos/id/1011/600/400"
   },
   {
-    "ID": 2,
-    "TITULO": "Novedades",
-    "DESCRIPCION": "Descubre las nuevas funciones que hemos añadido recientemente.",
-    "IMG": "https://example.com/img/post2.jpg"
+    "id": 2,
+    "titulo": "Novedades",
+    "descripcion": "Descubre las nuevas funciones que hemos añadido recientemente.",
+    "img": "https://picsum.photos/id/1015/600/400"
   },
   {
-    "ID": 3,
-    "TITULO": "Consejos útiles",
-    "DESCRIPCION": "Aprende a sacarle el máximo provecho a la aplicación.",
-    "IMG": "https://example.com/img/post3.jpg"
+    "id": 3,
+    "titulo": "Consejos útiles",
+    "descripcion": "Aprende a sacarle el máximo provecho a la aplicación.",
+    "img": "https://picsum.photos/id/1025/600/400"
   },
   {
-    "ID": 4,
-    "TITULO": "Actualización",
-    "DESCRIPCION": "Hemos corregido errores y mejorado el rendimiento.",
-    "IMG": "https://example.com/img/post4.jpg"
+    "id": 4,
+    "titulo": "Actualización",
+    "descripcion": "Hemos corregido errores y mejorado el rendimiento.",
+    "img": "https://picsum.photos/id/1035/600/400"
   }
 ]
