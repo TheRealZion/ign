@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 1,
+    "TITULO": "Bienvenido a la app",
+    "DESCRIPCION": "Este es el primer post de bienvenida para los usuarios.",
+    "IMG": "https://example.com/img/post1.jpg"
+  },
+  {
+    "ID": 2,
+    "TITULO": "Novedades",
+    "DESCRIPCION": "Descubre las nuevas funciones que hemos añadido recientemente.",
+    "IMG": "https://example.com/img/post2.jpg"
+  },
+  {
+    "ID": 3,
+    "TITULO": "Consejos útiles",
+    "DESCRIPCION": "Aprende a sacarle el máximo provecho a la aplicación.",
+    "IMG": "https://example.com/img/post3.jpg"
+  },
+  {
+    "ID": 4,
+    "TITULO": "Actualización",
+    "DESCRIPCION": "Hemos corregido errores y mejorado el rendimiento.",
+    "IMG": "https://example.com/img/post4.jpg"
+  }
+]
